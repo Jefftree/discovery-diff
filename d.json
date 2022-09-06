@@ -7,6 +7,8 @@
       "name": "controllerrevisions",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "ControllerRevision",
       "verbs": [
         "create",
@@ -24,6 +26,8 @@
       "name": "daemonsets",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "DaemonSet",
       "verbs": [
         "create",
@@ -47,6 +51,8 @@
       "name": "daemonsets/status",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "DaemonSet",
       "verbs": [
         "get",
@@ -58,6 +64,8 @@
       "name": "deployments",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "Deployment",
       "verbs": [
         "create",
@@ -94,6 +102,8 @@
       "name": "deployments/status",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "Deployment",
       "verbs": [
         "get",
@@ -105,6 +115,8 @@
       "name": "replicasets",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "ReplicaSet",
       "verbs": [
         "create",
@@ -141,6 +153,8 @@
       "name": "replicasets/status",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "ReplicaSet",
       "verbs": [
         "get",
@@ -152,6 +166,8 @@
       "name": "statefulsets",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "StatefulSet",
       "verbs": [
         "create",
@@ -188,6 +204,8 @@
       "name": "statefulsets/status",
       "singularName": "",
       "namespaced": true,
+      "group": "apps",
+      "version": "v1",
       "kind": "StatefulSet",
       "verbs": [
         "get",
